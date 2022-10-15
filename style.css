@@ -1,0 +1,23 @@
+* {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    height: 30vh;
+    background: #D59B02;
+    text-align: center;
+}
+
+.section-one {
+    background: #D58202;
+}
+
+footer {
+    text-align: center;
+}
